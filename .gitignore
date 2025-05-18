@@ -49,3 +49,4 @@ renv/staging/
 rsconnect/
 
 /.quarto/
+data/
