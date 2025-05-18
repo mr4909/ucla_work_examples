@@ -1,0 +1,191 @@
+[
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Contact\n\n\n\nIf you’d like to connect or learn more about my work, feel free to reach out.\n\nEmail: marialexandriraroberts@gmail.com\nGitHub: https://github.com/mr4909\nLinkedIn: https://www.linkedin.com/in/marialexandriaroberts/"
+  },
+  {
+    "objectID": "contact.html#about-this-page",
+    "href": "contact.html#about-this-page",
+    "title": "Contact",
+    "section": "",
+    "text": "Information for contacting project team members."
+  },
+  {
+    "objectID": "contact.html#team",
+    "href": "contact.html#team",
+    "title": "Contact",
+    "section": "Team",
+    "text": "Team\nNames and roles of the project team members."
+  },
+  {
+    "objectID": "contact.html#reach-out",
+    "href": "contact.html#reach-out",
+    "title": "Contact",
+    "section": "Reach Out",
+    "text": "Reach Out\nContact details for further communication."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "\nUncovering Prison Deaths\n",
+    "section": "",
+    "text": "Uncovering Prison Deaths\n\n\nFacility-level insights into where, when, and why people are dying in custody.\n\nView Key Findings"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Each year, people die in the custody of West Virginia’s Division of Corrections and Rehabilitation (DCR)—but the public rarely learns who they were, where they died, or what happened to them.\nThis site exists to change that.\nIt presents the first facility-level dataset of reported deaths in DCR custody, covering both prisons and regional jails. The data comes from Freedom of Information Act (FOIA) requests and includes details that are not available in DCR’s public reports:\n\nDate of death\n\nFacility name\n\nAge, race, and gender\n\nManner and cause of death\n\nWhether the person was awaiting trial or already sentenced"
+  },
+  {
+    "objectID": "about.html#background",
+    "href": "about.html#background",
+    "title": "About",
+    "section": "Background",
+    "text": "Background\nThe UCLA Law Behind Bars Data Project began in March 2020 to track the impact of COVID-19 on incarcerated people and corrections staff. As the pandemic exposed deep vulnerabilities in carceral systems, the project became a vital resource for:\n\nAdvocates and legal teams fighting for urgent reforms\n\nJournalists and researchers investigating conditions behind bars\n\nPolicymakers aiming to understand the scope of the crisis\n\nIn February 2023, the project expanded beyond COVID and relaunched with a focus on all-cause mortality in U.S. prisons and jails. The result is the most comprehensive public dataset of deaths in custody nationwide—filling a critical gap left by the federal government’s cessation of mortality reporting in 2019.\nThis dataset has already shaped national discourse. A front-page New York Times investigation, using Behind Bars data, found a 61% increase in prison mortality from 2019 to 2020. West Virginia stood out with the highest known mortality rate—96 deaths per 10,000 people incarcerated."
+  },
+  {
+    "objectID": "about.html#my-contribution",
+    "href": "about.html#my-contribution",
+    "title": "About",
+    "section": "My Contribution",
+    "text": "My Contribution\nThis site presents an independent analysis using data from the UCLA Law Behind Bars Data Project, combined with additional public records and state-level information. Specifically:\n\nI downloaded the deaths in custody dataset from the project’s GitHub repository\n\nI focused on West Virginia, a state where I’ve led cross-system justice data work\n\nI incorporated contextual insights on carceral conditions, health care access, and system capacity in WV\n\nMy goal is to highlight how this dataset can support deeper, local investigations into carceral mortality—especially in states like West Virginia, where deaths in custody are consistently high but poorly understood."
+  },
+  {
+    "objectID": "about.html#objectives",
+    "href": "about.html#objectives",
+    "title": "About",
+    "section": "Objectives",
+    "text": "Objectives\n\nUse UCLA’s mortality dataset to explore state- and facility-level patterns\n\nHighlight mortality trends in West Virginia, using my prior work in that system as context\n\nIdentify policy-relevant factors that may drive or mitigate deaths behind bars\n\nDemonstrate how public data can be used to inform oversight and accountability\n\n\nKey Questions\n\nWhich facilities report the highest rates of mortality?\nWhat patterns can be observed across time, states, or populations?\nHow does West Virginia compare to other states, and why?\nWhat structural factors—staffing, aging populations, medical care—may explain elevated death rates?"
+  },
+  {
+    "objectID": "about.html#key-questions",
+    "href": "about.html#key-questions",
+    "title": "UCLA Law Behind Bars Data Project",
+    "section": "Key Questions",
+    "text": "Key Questions\n\n\nWhich facilities report the highest rates of mortality?\nWhat patterns can be observed across time, states, or populations?\nHow does West Virginia compare to other states, and why?\nWhat structural factors—staffing, aging populations, medical care—may explain elevated death rates?"
+  },
+  {
+    "objectID": "about.html#stakeholders-considered",
+    "href": "about.html#stakeholders-considered",
+    "title": "About",
+    "section": "Stakeholders Considered",
+    "text": "Stakeholders Considered\n\nPeople directly impacted by incarceration, including those with lived experience\n\nUCLA Behind Bars Data Project team and advisory board\n\nState and local corrections leaders\n\nPublic oversight and legal advocacy groups\n\nHealth researchers and justice system analysts\n\nWest Virginia policymakers and stakeholders, informed by my prior collaborations in the state"
+  },
+  {
+    "objectID": "about.html#project-links",
+    "href": "about.html#project-links",
+    "title": "About",
+    "section": "Project Links",
+    "text": "Project Links\n\nGitHub Repository (My Analysis)\n\nUCLA Behind Bars Dataset (Official)\n\nUCLA Project Website"
+  },
+  {
+    "objectID": "analysis.html",
+    "href": "analysis.html",
+    "title": "Analysis Walkthrough",
+    "section": "",
+    "text": "TBD"
+  },
+  {
+    "objectID": "analysis.html#section-1",
+    "href": "analysis.html#section-1",
+    "title": "Analysis Walkthrough",
+    "section": "Section 1",
+    "text": "Section 1"
+  },
+  {
+    "objectID": "analysis.html#section-2",
+    "href": "analysis.html#section-2",
+    "title": "Analysis Walkthrough",
+    "section": "Section 2",
+    "text": "Section 2"
+  },
+  {
+    "objectID": "analysis.html#about-the-data",
+    "href": "analysis.html#about-the-data",
+    "title": "Analysis Walkthrough",
+    "section": "About the Data",
+    "text": "About the Data\n\n\nCode\n# Summarize structure and row counts\ndata_overview &lt;- tibble(\n  Dataset = c(\"wv_historical_state_counts\", \"wv_latest_facility_counts\", \n              \"wv_latest_state_counts\", \"wv_latest_state_jurisdiction_counts\"),\n  Description = c(\n    \"Weekly COVID case, death, and testing counts by WV DOC (historical).\",\n    \"Latest available facility-level counts across WV DOC, ICE, and federal sites.\",\n    \"Most recent state-level aggregate counts for WV.\",\n    \"Latest counts disaggregated by system (e.g., Prison, ICE, Juvenile) and measure.\"\n  ),\n  Rows = c(\n    nrow(wv_historical_state_counts),\n    nrow(wv_latest_facility_counts),\n    nrow(wv_latest_state_counts),\n    nrow(wv_latest_state_jurisdiction_counts)\n  ),\n  Cols = c(\n    ncol(wv_historical_state_counts),\n    ncol(wv_latest_facility_counts),\n    ncol(wv_latest_state_counts),\n    ncol(wv_latest_state_jurisdiction_counts)\n  )\n)\n\n# Build your table\ngt(data_overview) |&gt; \n  style_ucla_table(title = \"West Virginia Dataset Overview\")\n\n\n\n\n\n\n\n\nWest Virginia Dataset Overview\n\n\nDataset\nDescription\nRows\nCols\n\n\n\n\nwv_historical_state_counts\nWeekly COVID case, death, and testing counts by WV DOC (historical).\n151\n19\n\n\nwv_latest_facility_counts\nLatest available facility-level counts across WV DOC, ICE, and federal sites.\n46\n34\n\n\nwv_latest_state_counts\nMost recent state-level aggregate counts for WV.\n1\n19\n\n\nwv_latest_state_jurisdiction_counts\nLatest counts disaggregated by system (e.g., Prison, ICE, Juvenile) and measure.\n28\n6"
+  },
+  {
+    "objectID": "analysis.html#exploratory-data-analysis",
+    "href": "analysis.html#exploratory-data-analysis",
+    "title": "Analysis Walkthrough",
+    "section": "Exploratory Data Analysis",
+    "text": "Exploratory Data Analysis"
+  },
+  {
+    "objectID": "about.html#whats-really-happening-inside-west-virginias-jails-and-prisons",
+    "href": "about.html#whats-really-happening-inside-west-virginias-jails-and-prisons",
+    "title": "About",
+    "section": "What’s really happening inside West Virginia’s jails and prisons?",
+    "text": "What’s really happening inside West Virginia’s jails and prisons?\nEach year, people die in the custody of West Virginia’s Division of Corrections and Rehabilitation (DCR)—but the public rarely learns who they were, where they died, or what happened to them.\nThis site exists to change that.\nIt presents the first facility-level dataset of reported deaths in DCR custody, covering both prisons and regional jails. The data comes from Freedom of Information Act (FOIA) requests and includes details that are not available in DCR’s public reports:\n\nDate of death\n\nFacility name\n\nAge, race, and gender\n\nManner and cause of death\n\nWhether the person was awaiting trial or already sentenced"
+  },
+  {
+    "objectID": "about.html#what-dcr-publishesand-what-it-leaves-out",
+    "href": "about.html#what-dcr-publishesand-what-it-leaves-out",
+    "title": "About",
+    "section": "What DCR publishes—and what it leaves out",
+    "text": "What DCR publishes—and what it leaves out\nDCR’s official reports include:\n\nOnly prison deaths\n\nOnly aggregate counts, broken down by month and year\n\nThey do not include:\n\nDeaths in regional jails\n\nAny information about age, race, gender, cause of death, or facility\n\nAny case-level details or names of the deceased"
+  },
+  {
+    "objectID": "about.html#what-this-dataset-includes",
+    "href": "about.html#what-this-dataset-includes",
+    "title": "About",
+    "section": "What this dataset includes",
+    "text": "What this dataset includes\nIn 2024, Sara Whitaker, a policy analyst with the West Virginia Center on Budget and Policy, submitted a FOIA request to DCR for:\n\nAll deaths in DCR custody since 2020\n\nFacility-level, demographic, and cause-of-death information\n\nRecords of deaths following hospital transfers or administrative releases\n\nThe result was a case-level dataset of over 180 deaths between January 2020 and March 2025, covering both jails and prisons.\n\nSara Whitaker’s findings revealed:\n\nDeaths in jails that had never been disclosed publicly\n\nMismatches between FOIA results and official totals\n\nMinimal classification of cause, with many deaths listed only as “natural” or “overdose”\n\nExclusion of cases if death occurred in a hospital, even when the individual remained in DCR custody\n\n\nExample: Marissa Crim died less than 24 hours after being booked into North Central Regional Jail. Her death was not included in DCR’s monthly log, despite the jail informing the prosecutor that she died in custody."
+  },
+  {
+    "objectID": "about.html#why-this-matters",
+    "href": "about.html#why-this-matters",
+    "title": "About",
+    "section": "Why this matters",
+    "text": "Why this matters\nWest Virginia has had one of the highest jail death rates in the country over the past decade. But with no facility-level reporting, there is:\n\nNo transparency around which jails or prisons are most at risk\n\nNo public system to track systemic failures like overcrowding or neglect\n\nNo routine disclosure when people die in government custody\n\nWithout outside scrutiny, the system operates in silence—even as lawsuits and investigative reporting reveal troubling patterns."
+  },
+  {
+    "objectID": "about.html#this-project-aims-to",
+    "href": "about.html#this-project-aims-to",
+    "title": "About",
+    "section": "This project aims to:",
+    "text": "This project aims to:\n\nDocument all known deaths in DCR custody since 2020\n\nProvide facility-level data to support public awareness and oversight\n\nCompare FOIA data with:\n\nWV DCR annual reports (which exclude jail deaths)\n\nUCLA Behind Bars Data Project (national data built from media and public records)"
+  },
+  {
+    "objectID": "about.html#data-sources",
+    "href": "about.html#data-sources",
+    "title": "About",
+    "section": "Data sources",
+    "text": "Data sources\n\nFOIA response to Sara Whitaker, WV Center on Budget and Policy (Sept 2024)\n\nWV DCR Annual Reports (prison-only counts, no case-level data)\n\nUCLA Behind Bars Data Project"
+  },
+  {
+    "objectID": "about.html#what-dcr-reportsand-what-it-doesnt",
+    "href": "about.html#what-dcr-reportsand-what-it-doesnt",
+    "title": "About",
+    "section": "What DCR reports—and what it doesn’t",
+    "text": "What DCR reports—and what it doesn’t\nIn its annual reports, DCR lists only the number of deaths in state prisons, broken down by month and year. But:\n\nDeaths in jails are excluded entirely\nThere is no breakdown by facility, demographics, or cause\nNo names, narratives, or circumstances are ever shared\n\nThis means the public cannot see patterns, identify red flags, or hold the system accountable."
+  },
+  {
+    "objectID": "about.html#what-this-dataset-adds",
+    "href": "about.html#what-this-dataset-adds",
+    "title": "About",
+    "section": "What this dataset adds",
+    "text": "What this dataset adds\nIn 2024, policy analyst Sara Whitaker of the WV Center on Budget and Policy submitted a FOIA request asking DCR to release:\n\nAll deaths in custody since 2020\n\nRecords covering prisons, jails, hospital transfers, and administrative releases\n\nCase-level details on each person who died\n\nThe dataset includes 289 deaths in DCR custody from January 2020 to March 2025, based on six tables released via FOIA to policy analyst Sarah Whitaker.\nSara Whitaker found that:\n\nMany jail deaths were not disclosed in prior DCR reports\n\nSome deaths were excluded from official tallies if they happened after a hospital transfer or administrative release\n\nDCR often labeled deaths as “natural” or “overdose” without providing details, even in cases involving violence or neglect\n\nFamilies were not notified publicly, and several deaths only came to light through litigation"
+  },
+  {
+    "objectID": "about.html#what-this-project-aims-to-do",
+    "href": "about.html#what-this-project-aims-to-do",
+    "title": "About",
+    "section": "What this project aims to do",
+    "text": "What this project aims to do\nThis project uses the FOIA-released dataset to:\n\nDocument deaths in West Virginia’s jails and prisons from 2020–2025\n\nProvide facility-level transparency where none previously existed\n\nSupport journalists, watchdogs, and advocates working toward oversight\n\nCompare FOIA records with WV DCR annual reports and the UCLA Behind Bars national database to surface discrepancies\n\nRaise new questions about facility conditions, medical care, and system design"
+  },
+  {
+    "objectID": "about.html#related-reports",
+    "href": "about.html#related-reports",
+    "title": "About",
+    "section": "Related reports",
+    "text": "Related reports\nThis work builds on reporting and analysis by Sara Whitaker, whose efforts helped bring these deaths to public light:\n\nAre Fewer People Dying in West Virginia Jails? Or is the State Simply Not Counting? (2025)\n\nNo More Hidden Rules: WV DCR Policies and Procedures (2023)\n\nJustice System Oversight Is Missing in West Virginia (2023)"
+  }
+]
